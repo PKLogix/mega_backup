@@ -10,9 +10,9 @@ def get_data():
             "items": [
                 {
                     "type": "doctype",
-                    "name": "Amazon S3 Settings",
-                    "label": _("Amazon S3 Backup"),
-                    "description": _("Amazon S3 Backup for Frappe and ERPNext"),
+                    "name": "Mega Settings",
+                    "label": _("Mega Backup"),
+                    "description": _("Mega Backup for Frappe and ERPNext"),
                     "hide_count": True
                 }
             ]
