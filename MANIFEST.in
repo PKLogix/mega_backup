@@ -1,0 +1,18 @@
+include MANIFEST.in
+include requirements.txt
+include *.json
+include *.md
+include *.py
+include *.txt
+recursive-include mega_backup *.css
+recursive-include mega_backup *.csv
+recursive-include mega_backup *.html
+recursive-include mega_backup *.ico
+recursive-include mega_backup *.js
+recursive-include mega_backup *.json
+recursive-include mega_backup *.md
+recursive-include mega_backup *.png
+recursive-include mega_backup *.py
+recursive-include mega_backup *.svg
+recursive-include mega_backup *.txt
+recursive-exclude mega_backup *.pyc
